@@ -1,5 +1,7 @@
 <img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="lucasfsilva2310" height="400" width="2000" />
 <h1 align="center">Hey 👋</h1>
+<p> Coding since 2020 !</p>
+
 <p align="center">I´m a passionate developer when it comes to two things: </p>
   <ul>
     <li>Making my life easier</li>
