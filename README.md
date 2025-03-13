@@ -4,19 +4,24 @@
   <ul>
     <li>Making my life easier</li>
     <li>When I really believe what I´m doing is going to help others</li>
+    <li>Having fun creating stuff that I love like games and stuff</li>
   </ul>
   
 <hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasfsilva2310&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="lucasfsilva2310" /> </p>
 
-- 💬🌱 Always learning. Currently on <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="java" width="80" height="40"/> , <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="80" height="40"/> and  <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="golang" width="80" height="40"/>
+- 💬🌱 Always learning. Currently specializing on <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" alt="nestjs" width="80" height="40"/> 
+      </a> 
 
 - 📫 How to reach me **lucasfsilva2310@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/lucasfsilva2310/](https://www.linkedin.com/in/lucasfsilva2310/)
 
-- ⚡ Fun fact **I love to communicate and meet new people! ( Though I´m very shy and struggle a lot to start a conversation 😅 )**
+- ⚡ Fun facts about myself: **I love animes, running and games!**
+
+- Currently working on a side project of a turn based game about the anime <img src="https://e7.pngegg.com/pngimages/807/861/png-clipart-naruto-logo-naruto-logo-comics-and-fantasy-naruto-thumbnail.png" alt="nestjs" width="80" height="40"/> 
 
 <h3 align="left">Connect with me:</h3>
   <p align="left">
