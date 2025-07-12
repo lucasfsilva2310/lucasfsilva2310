@@ -17,6 +17,10 @@
         <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" alt="nestjs" width="80" height="40"/> 
       </a> 
 
+- 📫 Also learning game development! Currently learning <a href="https://godotengine.org" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-ar21~bgwhite.svg" alt="godot" width="80" height="40"/> 
+      </a> 
+
 - 📫 How to reach me **lucasfsilva2310@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/lucasfsilva2310/](https://www.linkedin.com/in/lucasfsilva2310/)
