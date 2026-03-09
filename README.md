@@ -42,8 +42,9 @@
 
 ### ⚡ Fun Facts
 
-- I love anime (especially Naruto), running, and games!  
-- I'm working on a **turn-based game** inspired by <img src="https://pngimg.com/uploads/naruto/naruto_PNG6.png" alt="Naruto logo" width="80" height="40" />
+- I almost became a veterinarian
+- I love running  
+- I want to start developing games!
 
 ---
 
