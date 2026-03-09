@@ -24,10 +24,7 @@
 
 ### 🌱 Currently Learning
 
-- **Backend**:  
-  <a href="https://nestjs.com/" target="_blank" rel="noopener noreferrer">  
-    <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" alt="NestJS" width="80" height="40" />  
-  </a>
+- **Backend**: Everything AI has to offer
 
 - **Game Dev**:  
   <a href="https://godotengine.org" target="_blank" rel="noopener noreferrer">  
