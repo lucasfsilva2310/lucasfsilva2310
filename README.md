@@ -96,10 +96,3 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img height="200" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasfsilva2310&show_icons=true&locale=en&layout=donut&theme=transparent" alt="Top Langs" />
-  <img height="200" align="left" src="https://github-readme-stats.vercel.app/api?username=lucasfsilva2310&show_icons=true&locale=en&theme=transparent" alt="GitHub Stats" />
-</p>
-
