@@ -5,13 +5,6 @@
 <h1 align="center">Hey 👋</h1>
 <p align="center">Coding since 2020!</p>
 
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lucasfsilva2310&title=Joined2020,Commit,Experience" alt="trophies" />
-  </a>
-</p>
-
 ---
 
 <p>Coding is more than a job, it’s a passion. I love building things that make my life easier, help others, and are just plain fun. Especially games.</p>
