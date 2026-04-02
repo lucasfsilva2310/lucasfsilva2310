@@ -7,7 +7,7 @@
 
 ---
 
-<p>Coding is more than a job, it’s a passion. I love building things that make my life easier, help others, and are just plain fun. Especially games.</p>
+<p>I love building things that have a meaningful impact, to make my life easier, help others, and/or are just plain fun. Especially games.</p>
 
 ---
 
@@ -17,7 +17,7 @@
 
 ### 🌱 Currently Learning
 
-- **Backend**: Everything AI has to offer
+- **Software Engineering**: Deepening my knowledge about design systems and AI.
 
 - **Game Dev**:  
   <a href="https://godotengine.org" target="_blank" rel="noopener noreferrer">  
@@ -37,7 +37,6 @@
 
 - I almost became a veterinarian
 - I love running  
-- I want to start developing games!
 
 ---
 
